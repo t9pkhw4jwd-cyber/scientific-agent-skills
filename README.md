@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2609.00065-b31b1b.svg)](https://arxiv.org/abs/2609.00065)
 [![Version](https://img.shields.io/badge/Version-2.72.0-blue.svg)](pyproject.toml)
 [![Skills](https://img.shields.io/badge/Skills-177-brightgreen.svg)](#-whats-included)
-[![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included)
+  [![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included)
 [![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)
 [![Agent Plugins](https://img.shields.io/badge/Standard-Agent_Plugins-0A7A72.svg)](https://agent-plugins.org/)
 [![Security Scan](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.yml/badge.svg)](https://github.com/K-Dense-AI/scientific-agent-skills/actions/workflows/security-scan.yml)
